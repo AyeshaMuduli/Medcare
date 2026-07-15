@@ -23,11 +23,13 @@ class OrderValidatorTest {
         val medicine = Medicine(
             1,
             "Paracetamol",
-            "",
-            "Tablet",
             20.0,
-            100,
-            0
+            0,
+            "Pain relief medicine",
+            "Fever and Pain",
+            "1 Tablet",
+            "Pain Relief",
+            100
         )
 
         val cart = listOf(
