@@ -22,11 +22,13 @@ class CartCalculatorTest {
         val medicine = Medicine(
             1,
             "Paracetamol",
-            "Pain Relief",
-            "Tablet",
             50.0,
-            100,
-            0
+            0,
+            "Pain relief medicine",
+            "Fever and Pain",
+            "1 Tablet",
+            "Pain Relief",
+            100
         )
 
         val cart = listOf(
