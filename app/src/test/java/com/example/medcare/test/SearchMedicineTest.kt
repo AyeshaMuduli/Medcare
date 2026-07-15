@@ -22,20 +22,24 @@ class SearchMedicineTest {
             Medicine(
                 1,
                 "Paracetamol",
-                "",
-                "Tablet",
                 20.0,
-                100,
-                0
+                0,
+                "Pain relief medicine",
+                "Fever and Pain",
+                "1 Tablet",
+                "Pain Relief",
+                100
             ),
             Medicine(
                 2,
                 "Crocin",
-                "",
-                "Tablet",
                 30.0,
-                100,
-                0
+                0,
+                "Pain relief medicine",
+                "Fever and Pain",
+                "1 Tablet",
+                "Pain Relief",
+                100
             )
         )
 
